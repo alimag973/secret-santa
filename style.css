@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap%27');
+
+body {
+    background: url(images/fondnoel.jpg);
+    background-position: center;
+    background-size: 100%;
+    color: rgb(4, 3, 3);
+    text-align: center;
+}
+
+h1 {
+    font-size:90px;
+    color: blueviolet;
+    font-family: Mountains of Christmas;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+p {
+    font-family: Mountains of Christmas;
+    font-size: 30px;
+    color: blueviolet;
+    text-align: start;
+    margin-left: 2rem;
+}
+
+ .contenair {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem;
+ }
+
+ marquee {
+    color: deeppink;
+    font-size: 50px;
+   
+ }
+
+ .contenair2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem;
+ }
